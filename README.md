@@ -53,4 +53,4 @@ Jupyter Notebook for interactive exploration 📑
 ## 📬 Contact
 If you have any questions or would like to collaborate, please contact me:
 
-📧 Email: mochamadrizqii1@gmail.com 🔗 LinkedIn: Mochamad Rizqi
+📧 Email: mochamadrizqii1@gmail.com 🔗 LinkedIn: [Mochamad Rizqi](https://www.linkedin.com/in/mochamad-rizqi/)
