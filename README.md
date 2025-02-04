@@ -39,6 +39,7 @@ This analysis will answer a few key questions:
 - Sales by Platform 🕹
 - Region Contribution to Total Sales 🌍
 - Top-Selling Publisher and Genre Analysis 🎮
+  
 💡 Note: The analysis results will be accompanied by graphs and insights to better understand sales patterns.
 
 ## 🛠 Tools & Technologies
